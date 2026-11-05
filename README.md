@@ -8,6 +8,8 @@ Structure of the repository is as follows:
 <deployment-flow-name>/<environment-name>/<application-name>-values.yaml
 ```
 
+
+
 For example:
 
 ```bash
